@@ -1,0 +1,12 @@
+.headerstyle{
+	position: absolute;
+  width: 100%;
+  height: 300px;
+  background-color: black;
+}
+.accountstyle{
+	position: absolute;
+  width: 600px;
+  height: 300px;
+  background-color: white;
+}

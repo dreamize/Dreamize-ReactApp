@@ -1,13 +1,14 @@
 import React from 'react';
+import HeaderContainer from './Containers/HeaderContainer.js';
 
 class App extends React.Component {
-    render(){
-        return (
-        	<div>
-        		Hello World!
-        	</div>
-        	);
-    }
+	render(){
+		return (
+			<div>
+				<HeaderContainer />
+			</div>
+		);
+	}
 }
 
 export default App;
